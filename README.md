@@ -32,7 +32,7 @@
 
 ###### `if count -> number < 0`
 
-background color of count turns green
+background color of count turns red
 
 ###### `if count -> number > 0`
 
