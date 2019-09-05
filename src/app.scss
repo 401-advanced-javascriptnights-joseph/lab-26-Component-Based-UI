@@ -1,0 +1,16 @@
+.App {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+$base-color:#3500D3;
+$base-text: Comic Sans MS;
+$base-text-color:#0C0032;
+
+body {
+  background: $base-color;
+  font-family: $base-text;
+  color: $base-text-color;
+  font-weight: bold;
+}
+
