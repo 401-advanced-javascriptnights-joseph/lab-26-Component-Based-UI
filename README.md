@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-26-Component-Based-UI/pull/1)
 - [codesandbox](https://codesandbox.io/s/starter-code-76890)
 
 ### Modules
