@@ -1,6 +1,6 @@
 # TOC
-1. [Lab26 Component Based UI](# Lab-26-09/04/2019)
-2. [Lab27 React Testing and Deployment](# LAB-27-09/07/2019)
+1. [Lab26 Component Based UI](#Lab-26-09/04/2019)
+2. [Lab27 React Testing and Deployment](LAB-27-09/07/2019)
 
 # LAB 26 09/04/2019
 
