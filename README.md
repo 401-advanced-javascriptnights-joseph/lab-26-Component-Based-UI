@@ -1,4 +1,4 @@
-# LAB 26
+# LAB 26 09/04/2019
 
 ## Component Based UI
 
@@ -37,3 +37,14 @@ background color of count turns red
 ###### `if count -> number > 0`
 
 background color of count turns green
+
+# LAB 27 09/07/2019
+
+### Links and Resources
+
+- [submission PR]()
+- [deployed react app](https://josephs-amazing-basic-counter.netlify.com/)
+- [AWS Amplify](https://react-testing.d456g63zd1gal.amplifyapp.com/)
+- [AWS S3](http://joes-react-counter.s3-website-us-west-2.amazonaws.com/)
+
+### Tests added, side deployed through netlify, & bucket.
