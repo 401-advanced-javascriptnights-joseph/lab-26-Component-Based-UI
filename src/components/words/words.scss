@@ -7,10 +7,12 @@
   input {
     font-family: Comic Sans MS;
     font-weight: bold;
+    font-size: 13px;
   }
 
   button {
     font-family: Comic Sans MS;
     font-weight: bold;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   }
 }
