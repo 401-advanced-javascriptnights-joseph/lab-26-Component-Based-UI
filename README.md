@@ -1,6 +1,6 @@
 # TOC
 1. [Lab26 Component Based UI](#LAB-26)
-2. [Lab27 React Testing and Deployment](LAB-27)
+2. [Lab27 React Testing and Deployment](#LAB-27)
 
 # LAB 26 
 
@@ -42,9 +42,9 @@ background color of count turns red
 
 background color of count turns green
 
-# LAB 27 09/07/2019
+# LAB 27
 
-## React Testing and Deployment
+## React Testing and Deployment 09/07/2019
 
 ### Author: Joseph Hangarter
 
