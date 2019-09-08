@@ -1,4 +1,5 @@
-# TOC
+# Table of Contents
+
 1. [Lab26 Component Based UI](#LAB-26)
 2. [Lab27 React Testing and Deployment](#LAB-27)
 
