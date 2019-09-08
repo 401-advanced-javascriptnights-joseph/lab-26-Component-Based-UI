@@ -1,4 +1,7 @@
-# LAB 26 09/04/2019
+# TOC
+- [Lab26](##Lab-26)
+
+## LAB 26 09/04/2019
 
 ## Component Based UI
 
