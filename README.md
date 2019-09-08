@@ -1,7 +1,8 @@
 # TOC
-- [Lab26](##Lab-26)
+- [Lab26](# Lab-26-09/04/2019)
+- [Lab26](# LAB-27-09/07/2019)
 
-## LAB 26 09/04/2019
+# LAB 26 09/04/2019
 
 ## Component Based UI
 
@@ -42,6 +43,10 @@ background color of count turns red
 background color of count turns green
 
 # LAB 27 09/07/2019
+
+## React Testing and Deployment
+
+### Author: Joseph Hangarter
 
 ### Links and Resources
 
