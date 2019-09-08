@@ -51,7 +51,7 @@ background color of count turns green
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-26-Component-Based-UI/pull/3)
+- [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-26-Component-Based-UI/pull/4)
 - [deployed react app](https://josephs-amazing-basic-counter.netlify.com/)
 - [AWS Amplify](https://react-testing.d456g63zd1gal.amplifyapp.com/)
 - [AWS S3](http://joes-react-counter.s3-website-us-west-2.amazonaws.com/)
