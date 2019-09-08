@@ -1,6 +1,11 @@
-# LAB 26 09/04/2019
+# Table of Contents
 
-## Component Based UI
+1. [Lab26 Component Based UI](#LAB-26)
+2. [Lab27 React Testing and Deployment](#LAB-27)
+
+# LAB 26 
+
+## Component Based UI 09/04/2019
 
 ### Author: Joseph Hangarter
 
@@ -38,11 +43,15 @@ background color of count turns red
 
 background color of count turns green
 
-# LAB 27 09/07/2019
+# LAB 27
+
+## React Testing and Deployment 09/07/2019
+
+### Author: Joseph Hangarter
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-26-Component-Based-UI/pull/3)
 - [deployed react app](https://josephs-amazing-basic-counter.netlify.com/)
 - [AWS Amplify](https://react-testing.d456g63zd1gal.amplifyapp.com/)
 - [AWS S3](http://joes-react-counter.s3-website-us-west-2.amazonaws.com/)
